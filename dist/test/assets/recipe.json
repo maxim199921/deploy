@@ -1,0 +1,47 @@
+[
+  {
+    "name": "tr",
+    "description": "bla bla bla",
+    "imagePath": "https://e2.edimdoma.ru/data/posts/0002/2608/22608-ed4_wide.jpg?1548143789",
+    "ingredients": [
+      {
+        "name": "cucumber",
+        "amount": 5
+      },
+      {
+        "name": "cola",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "ua",
+    "description": "bla bla bla",
+    "imagePath": "https://e2.edimdoma.ru/data/posts/0002/2723/22723-ed4_wide.jpg?1554460834",
+    "ingredients": [
+      {
+        "name": "bananas",
+        "amount": 5
+      },
+      {
+        "name": "onion",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "name": "banano",
+    "description": "sdasd dsad as dsa da saa",
+    "imagePath": "https://klike.net/uploads/posts/2019-06/1559545617_2.jpg",
+    "ingredients": [
+      {
+        "name": "mango",
+        "amount": 1
+      },
+      {
+        "name": "limon",
+        "amount": 2
+      }
+    ]
+  }
+]
